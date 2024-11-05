@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ricardo Camarena.
 - 👀 I’m interested in Web and iOS Development.
-- 🌱 I’m currently learning everything new in iOS 17 and the new APIs and always improving my Web development skills.
+- 🌱 I’m currently learning everything new in iOS 18, Apple Intelligence and the new APIs and always improving my Web development skills.
 - 💞️ I’m looking to collaborate on apps designed for Apple's ecosystem using Swift, as well as Web Development projects.
 - 📫 You can contact me at: ricky_camarena@hotmail.com
 
